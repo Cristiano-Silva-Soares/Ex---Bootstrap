@@ -1,0 +1,17 @@
+.posicao{
+    width: 100px;
+    height: 100px;
+}
+
+.diminui{
+    width: 300px;
+    height: 300px;
+}
+
+.back{
+    background-color: #C9C9C9;
+}
+
+.nave :hover {
+    color: red;
+}
